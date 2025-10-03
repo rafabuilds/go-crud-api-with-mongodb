@@ -1,7 +1,5 @@
 # go-crud-api-with-mongodb
 
-# go-crud-api-with-mongodb
-
 A robust CRUD RESTful API in **Go**, using **MongoDB** as the database. This project is a complete solution for building APIs, featuring containerization with **Docker**, authentication with **JWT**, and interactive documentation with **Swagger**.
 
 ---
